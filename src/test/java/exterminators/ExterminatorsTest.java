@@ -7,8 +7,8 @@ public class ExterminatorsTest {
     
     @Test
     public void testMatrixTranspose() {
-        int a = 5;
-        int b = 1;
+        int a = 3;
+        int b = 2;
         
         int[][] mat = {
             {1, 2},
