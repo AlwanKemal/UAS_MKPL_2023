@@ -9,14 +9,13 @@ package exterminators;
  *
  * @author ASUS
  */
+import java.util.Scanner;
 public class Exterminators {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        //Scanner input = new Scanner(System.in);
         System.out.print("Hello");
         int a = 3;
         int b = 2;
