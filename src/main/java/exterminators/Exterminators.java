@@ -9,6 +9,7 @@ package exterminators;
  *
  * @author ASUS
  */
+import java.util.scanner;
 public class Exterminators {
 
     /**
